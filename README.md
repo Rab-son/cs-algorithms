@@ -21,7 +21,7 @@ computer-science-algorithms
 
 **Understanding Algorithm Performance** <br />
 &nbsp;&nbsp;- Big-O notation <br />
-&nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms<br />
+&nbsp;&nbsp;&nbsp;&nbsp; **Common Big-O Terms**<br />
 | Notation                    | Description   | 
 | --------------------------- |:-------------:| 
 | O(1)                        | Constant Time |  
