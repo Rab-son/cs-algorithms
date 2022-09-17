@@ -12,4 +12,11 @@ Algorithm Characteristics
     - Classification
           1. Serial/Parallel, Exact/Approximate, Deterministic/   
              Non-deterministic
+
+Common Algorithms
+    - Search     
+    - Sorting
+    - Computational 
+    - Collection
+
     
