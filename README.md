@@ -14,9 +14,18 @@ Algorithm Characteristics<br />
       &nbsp;&nbsp;&nbsp;&nbsp;1. Serial/Parallel, Exact/Approximate, Deterministic/Non-deterministic<br />
 
 Common Algorithms<br />
-&nbsp;&nbsp;- Search<br />   
+&nbsp;&nbsp;- Search<br /> 
 &nbsp;&nbsp;- Sorting<br />
 &nbsp;&nbsp;- Computational<br />
 &nbsp;&nbsp;- Collection<br />
 
-Understanding 
+Understanding Algorithm Performance
+&nbsp;&nbsp;- Big-O notation
+&nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms
+| Notation      | Description   | 
+| ------------- |:-------------:| 
+| O(1)          | Constant Time |  
+| O(log n)      | Logarithmic   |   
+| O(n)          | Linear Time   |
+| O(n log n)    | Log-linear    |
+| O(n^2)        | Quadratic     |
