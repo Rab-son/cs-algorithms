@@ -19,7 +19,7 @@ Common Algorithms<br />
 &nbsp;&nbsp;- Computational<br />
 &nbsp;&nbsp;- Collection<br />
 
-| Understanding Algorithm Performance | <br />
+|Understanding Algorithm Performance| <br />
 &nbsp;&nbsp;- Big-O notation <br />
 &nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms<br />
 | Notation                    | Description   | 
