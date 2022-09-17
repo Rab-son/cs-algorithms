@@ -3,9 +3,9 @@ computer-science-algorithms
 - "Trying To Build A Program Without Understanding The Algorithm Is Like
    Trying To Build A Car Without Understanding Engines."
 -------------------------------------------------------------------------
-Algorithm
+**Algorithm**
 
-Algorithm Characteristics<br />
+**Algorithm Characteristics**<br />
 &nbsp;&nbsp;- Complexity<br />
       &nbsp;&nbsp;&nbsp;&nbsp;1. Space Complexity: How much memory does it require?<br />
       &nbsp;&nbsp;&nbsp;&nbsp;2. Time Complexity: How much time does it take to complete?<br />
@@ -13,7 +13,7 @@ Algorithm Characteristics<br />
 &nbsp;&nbsp;- Classification<br />
       &nbsp;&nbsp;&nbsp;&nbsp;1. Serial/Parallel, Exact/Approximate, Deterministic/Non-deterministic<br />
 
-Common Algorithms<br />
+**Common Algorithms**<br />
 &nbsp;&nbsp;- Search<br /> 
 &nbsp;&nbsp;- Sorting<br />
 &nbsp;&nbsp;- Computational<br />
