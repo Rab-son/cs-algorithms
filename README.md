@@ -22,10 +22,10 @@ Common Algorithms<br />
 Understanding Algorithm Performance
 &nbsp;&nbsp;- Big-O notation
 &nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms
-| Notation      | Description   | 
-| ------------- |:-------------:| 
-| O(1)          | Constant Time |  
-| O(log n)      | Logarithmic   |   
-| O(n)          | Linear Time   |
-| O(n log n)    | Log-linear    |
-| O(n^2)        | Quadratic     |
+| Notation                    | Description   | 
+| --------------------------- |:-------------:| 
+| O(1)                        | Constant Time |  
+| O(log n)                    | Logarithmic   |   
+| O(n)                        | Linear Time   |
+| O(n log n)                  | Log-linear    |
+| O(n<sup>2</sup>)            | Quadratic     |
