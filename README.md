@@ -20,8 +20,8 @@ Common Algorithms<br />
 &nbsp;&nbsp;- Collection<br />
 
 Understanding Algorithm Performance
-&nbsp;&nbsp;- Big-O notation_
-&nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms_
+&nbsp;&nbsp;- Big-O notation <br />
+&nbsp;&nbsp;&nbsp;&nbsp; Common Big-O Terms<br />
 | Notation                    | Description   | 
 | --------------------------- |:-------------:| 
 | O(1)                        | Constant Time |  
